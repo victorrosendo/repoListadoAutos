@@ -19,12 +19,12 @@
     ],
     "autos": [
         {
-            "patente": "FF-HH-22",
+            "patente": "FF-HH-33",
             "id_usuario": 1,
             "marca": "Audi"
         },
         {
-            "patente": "GG-11-RR",
+            "patente": "GG-22-RR",
             "id_usuario": 1,
             "marca": "BMW"
         }
